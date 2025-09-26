@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Abhijeet
 
 🔭 I’m currently building **VidyalayaOne**, a SaaS-based **school management system** with multitenancy, RBAC, and scalable DevOps features.  
-🌱 Exploring **MLOps, system design, and large-scale backend architectures**.  
-💻 Passionate about building **open-source tools and frameworks** that simplify software development.  
+🌱 Exploring **System design, and large-scale backend architectures**.  
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/abhijeet) | [Portfolio](https://abhijeet.dev)
 
 ---

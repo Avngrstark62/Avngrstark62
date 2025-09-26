@@ -15,36 +15,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-## 🚀 Projects I'm Proud Of
-
-### [VidyalayaOne](https://github.com/abhijeet/vidyalayaone)
-A **full-fledged school management SaaS** with:
-- Multitenant architecture
-- Automatic subdomain provisioning
-- RBAC for Admin, Teacher & Student
-- Scalable CI/CD & load balancing
-
-### [Clown](https://github.com/abhijeet/clown)
-A **social media platform** with automated CI/CD deployment and modern backend practices.
-
-### [Open Source Tools](https://github.com/abhijeet)
-- Authentication frameworks
-- MLOps utilities
-- AI-driven test case generators
-
----
-
-## 📈 GitHub Stats
-
-![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avngrstark62&show_icons=true&theme=radical)
-
----
-
-## ⚡ Fun Facts
-
-- 💡 I love designing **scalable systems and clean architectures**
-- 🎯 Focused on **hands-on projects** that solve real problems
-- 🤝 Open to **collaboration and mentorship** opportunities

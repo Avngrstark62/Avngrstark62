@@ -39,7 +39,7 @@ A **social media platform** with automated CI/CD deployment and modern backend p
 
 ## 📈 GitHub Stats
 
-![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijeet&show_icons=true&theme=radical)
+![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avngrstark62&show_icons=true&theme=radical)
 
 ---
 

@@ -1,13 +1,6 @@
 # Abhijeet Singh Thakur
-## Product Engineer
 
-- Built and operated a multi-tenant SaaS platform used by 500+ real users
-- Designed microservice and async worker architectures
-- Interested in distributed systems, orchestration engines, backend infrastructure, retrieval systems, and developer tooling
-
----
-
-## Tech
+## Tech Stack
 
 **Backend** — Node.js, FastAPI, Express, PostgreSQL, MongoDB, Redis  
 **Infrastructure** — Kubernetes, Docker, AWS, GCP, Nginx, GitHub Actions  

@@ -1,7 +1,10 @@
 # Abhijeet Singh Thakur
 ## Product Engineer
 
-Currently pursuing B.Tech in Civil Engineering at IIT Kanpur.
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Avngrstark62&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Avngrstark62&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 - Built and operated a multi-tenant SaaS platform used by 500+ real users
 - Designed microservice and async worker architectures

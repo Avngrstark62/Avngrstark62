@@ -1,5 +1,17 @@
 # Abhijeet Singh Thakur
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Avngrstark62&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avngrstark62&theme=tokyo-night"/>
+</p>
+
+---
+
 ## Tech Stack
 
 **Backend** — Node.js, FastAPI, Express, PostgreSQL, MongoDB, Redis  
@@ -43,18 +55,6 @@ Multi-tenant school ERP platform built with a Kubernetes-based microservice arch
 - Retrieval systems
 - Developer tooling
 - Systems design
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Avngrstark62&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avngrstark62&theme=tokyo-night"/>
-</p>
 
 ---
 

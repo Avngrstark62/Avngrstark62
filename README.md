@@ -1,6 +1,5 @@
 # Abhijeet Singh Thakur
-
-Backend & Distributed Systems Engineer building orchestration-heavy platforms, developer tooling, and scalable infrastructure.
+## Product Engineer
 
 Currently pursuing B.Tech in Civil Engineering at IIT Kanpur.
 
